@@ -69,7 +69,7 @@ i want to become web developer
 
 **achievements**
 
-- i got 1 st in chess
+- i got 1 st in chess 
 
 
 
