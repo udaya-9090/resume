@@ -1,5 +1,3 @@
-# Resume
-
 ## udaya
 
 ============
@@ -8,7 +6,7 @@
 
 - name:R.udaya<br>
 - mail is:udaya@gmail.com<br>
-- phone:456789<br>
+- phone:9100578622<br>
 - address:vijayawada<br>
 
 ### education details :
