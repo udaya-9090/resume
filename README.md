@@ -9,12 +9,12 @@
 - name:R.udaya<br>
 - mail is:udaya@gmail.com<br>
 - phone:456789<br>
-- address:wertyuiosdfghjxcvbn<br>
+- address:vijayawada<br>
 
 ### education details :
  - 10 class:narayana<br>
  - inter:naryana<br>
- - engreening:mic<br>
+ - engineering:mic<br>
 
 ***b-tech***
 
@@ -54,9 +54,7 @@ i want to become web developer
 
 ***hobbies***
 
-- sleeping<br>
-- eating<br>
-- playing with my sis<br>
+- reading books<br>
 - playing games<br>
 
 **strenghts**
@@ -67,7 +65,6 @@ i want to become web developer
 **weakness**
 
 - sleeping<br>
-- seeing movies<br>
 - lazeyness<br> 
 
 **achievements**
